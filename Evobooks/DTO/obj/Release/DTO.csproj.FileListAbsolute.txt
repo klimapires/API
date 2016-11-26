@@ -1,0 +1,5 @@
+E:\EvoBooks\Evobooks\DTO\bin\Release\DTO.dll
+E:\EvoBooks\Evobooks\DTO\bin\Release\DTO.pdb
+E:\EvoBooks\Evobooks\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+E:\EvoBooks\Evobooks\DTO\obj\Release\DTO.dll
+E:\EvoBooks\Evobooks\DTO\obj\Release\DTO.pdb
