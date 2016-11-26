@@ -1,0 +1,7 @@
+E:\EvoBooks\Evobooks\FBXParser\bin\Release\FBXParser.dll
+E:\EvoBooks\Evobooks\FBXParser\bin\Release\FBXParser.pdb
+E:\EvoBooks\Evobooks\FBXParser\bin\Release\FBXStructure.dll
+E:\EvoBooks\Evobooks\FBXParser\bin\Release\FBXStructure.pdb
+E:\EvoBooks\Evobooks\FBXParser\obj\Release\FBXParser.csprojResolveAssemblyReference.cache
+E:\EvoBooks\Evobooks\FBXParser\obj\Release\FBXParser.dll
+E:\EvoBooks\Evobooks\FBXParser\obj\Release\FBXParser.pdb

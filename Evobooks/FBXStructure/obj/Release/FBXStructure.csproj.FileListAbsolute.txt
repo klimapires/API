@@ -1,0 +1,4 @@
+E:\EvoBooks\Evobooks\FBXStructure\bin\Release\FBXStructure.dll
+E:\EvoBooks\Evobooks\FBXStructure\bin\Release\FBXStructure.pdb
+E:\EvoBooks\Evobooks\FBXStructure\obj\Release\FBXStructure.dll
+E:\EvoBooks\Evobooks\FBXStructure\obj\Release\FBXStructure.pdb
